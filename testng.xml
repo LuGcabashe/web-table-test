@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="WebTable Test Suite">
+    <test name="WebTable Test">
+        <classes>
+            <class name="com.testScript.WebTableTest" />
+        </classes>
+    </test>
+</suite>
